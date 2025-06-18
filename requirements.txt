@@ -13,7 +13,7 @@ tqdm
 funasr==1.0.27
 cn2an
 pypinyin
-pyopenjtalk>=0.4.1
+pyopenjtalk-mod>=0.4.1.post2
 g2p_en
 torchaudio
 modelscope==1.10.0
